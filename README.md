@@ -14,6 +14,7 @@ _TOOLS_
 * **Sebastian Mancera** - *Analista funcional* - [sebastian-mg](https://github.com/sebastian-mg)
 * **Luis Alzate** - *Administrador base de Datos* - [lalzat25](https://github.com/lalzat25)
 * **Ruth Jiménez** - *Desarrollador* - [ruth9403](https://github.com/ruth9403)
+* Walther Seidel - Product owner - waseidel
 
 ## Thanks for README ideas 🎁
  - [Villanuevand](https://github.com/Villanuevand)
